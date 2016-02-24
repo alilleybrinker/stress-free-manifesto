@@ -1,4 +1,4 @@
-# Stress-Free Manifesto
+# The Stress-Free Manifesto
 
 The Stress-Free Manifesto is a declaration of the ideals of a project,
 allowing the project to declare itself as a stress-free environment. The
